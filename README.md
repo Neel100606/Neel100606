@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=NEEL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Web%20Solutions%20%7C%20Full-Stack%20Dev&descAlign=50&descAlignY=51" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=NEEL%20MENDAPARA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Web%20Solutions%20%7C%20Full-Stack%20Dev&descAlign=50&descAlignY=51" alt="header"/>
 </p>
 
 # 🙋‍♂️ About Me
@@ -25,7 +25,11 @@
 ## ✨ Pinned Projects
 
 | Project | Description | Technologies Used |
-|---|---|---|
+|---------|-------------|-------------------|
+| **[Gallery-of-Wonders](https://github.com/Neel100606/Gallery-of-Wonders)** | A visually immersive gallery showcasing various artworks and designs. | `JavaScript`, `Python`, `HTML`, `CSS` |
+| **[ChatAppSocket.IO](https://github.com/Neel100606/ChatAppSocket.IO)** | Real-time chat application using Socket.IO for seamless communication. | `JavaScript`, `Socket.IO`, `Node.js`, `Express.js` |
+| **[GSAP-BasicLearning](http://github.com/Neel100606/GSAP-BasicLearning)** | A collection of basic animations and interactions using GSAP. | `JavaScript`, `GSAP`, `HTML`, `CSS` |
+| **[NetflixClone](https://github.com/Neel100606/NetflixClone)** | A clone of the Netflix homepage with responsive design and hover effects. | `HTML`, `CSS`, `JavaScript` |
 | **[E-Commerce-Store](https://github.com/Neel100606/E-Commerce-Store)** | Full-featured e-commerce platform with shopping cart and product management. | `JavaScript`, `HTML`, `CSS` |
 | **[My-Portfolio](https://github.com/Neel100606/My-Portfolio)** | Personal portfolio website showcasing projects and skills. | `JavaScript`, `HTML`, `CSS` |
 | **[Gamimi](https://github.com/Neel100606/Gamimi)** | Interactive game project built for learning JavaScript dynamics. | `JavaScript`, `HTML`, `CSS` |
